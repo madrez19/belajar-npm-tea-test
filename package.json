@@ -1,0 +1,25 @@
+{
+  "name": "belajar-npm-tea-test",
+  "version": "1.0.0",
+  "description": "Halo kids",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "belajar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrez19/belajar-npm-tea-test.git"
+  },
+  "keywords": [
+    "belajar"
+  ],
+  "author": "mdrz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madrez19/belajar-npm-tea-test/issues"
+  },
+  "homepage": "https://github.com/madrez19/belajar-npm-tea-test#readme"
+}
